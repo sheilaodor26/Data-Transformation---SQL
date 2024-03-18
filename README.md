@@ -9,4 +9,4 @@ See Year_Category.sql 1 and snapshot 2
 # Create a new column that labels records before 2010 as 'pre-2010' and after 2010 as 'post-2010'
 To create a new column, we employed the CASE statement to label each record as 'pre-2010' or 'post-2010' into a column - year_category.
 
-See Year_Category.sql 1 and snapshot 3
+See New_ColumnCategorySnapshot.sql
